@@ -44,6 +44,7 @@ public class UnitScriptableObject : ScriptableObject
     public int baseSpeed = 1;
     public int baseStrength = 1;
     public int baseIntelligence = 1;
+    public bool isEnemy = false;
 
     public Race race;
     public Class unitClass;

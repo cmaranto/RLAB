@@ -14,10 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   unitName: Unit
   range: 0
-  baseVitality: 0
-  baseSpeed: 0
-  baseStrength: 0
-  baseIntelligence: 0
+  baseVitality: 2
+  baseSpeed: 1
+  baseStrength: 1
+  baseIntelligence: 1
+  isEnemy: 0
   race: 0
   unitClass: 0
   traits: 

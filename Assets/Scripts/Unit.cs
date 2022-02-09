@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UnitScript : MonoBehaviour
+public class Unit : MonoBehaviour
 {
     public UnitScriptableObject unit;
 
@@ -16,5 +16,11 @@ public class UnitScript : MonoBehaviour
     void Update()
     {
         
+    }
+
+    bool getTarget(){
+
+
+        return false;
     }
 }

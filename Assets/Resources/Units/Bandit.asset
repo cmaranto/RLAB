@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a30d34174d47f91a3b061c8462e520c7, type: 3}
+  m_Name: Bandit
+  m_EditorClassIdentifier: 
+  unitName: Bandit
+  range: 0
+  baseVitality: 1
+  baseSpeed: 1
+  baseStrength: 1
+  baseIntelligence: 1
+  isEnemy: 1
+  race: 0
+  unitClass: 3
+  traits: 
